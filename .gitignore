@@ -1,0 +1,4 @@
+# Ignoring 'data' folder where nginx 'logs' folder
+# Structure: data > logs
+
+/data/
